@@ -30,8 +30,6 @@ namespace PracticalWork10
                 }
                 Console.SetCursorPosition(95, 2);
                 Console.Write("F1 - добавить запись");
-                Console.SetCursorPosition(95, 3);
-                Console.Write("F2 - найти запись");
                 Console.SetCursorPosition(10, 2);
                 Console.Write("ID");
                 Console.SetCursorPosition(30, 2);
